@@ -166,7 +166,7 @@ Dynamic Array Formulas
     have the ``=UNIQUE()`` formula available. Native dynamic arrays were introduced in Office 365 Insider Fast
     at the end of September 2018.
 
-As seen above, to use Excel's array formulas, you need to specify their dimensions up front by selecting the
+As seen above, to use Excel's array formulas, you need to specify their dimensions upfront by selecting the
 result array first, then entering the formula and finally hitting ``Ctrl-Shift-Enter``. In practice, it often turns
 out to be a cumbersome process, especially when working with dynamic arrays such as time series data.
 Since v0.10, xlwings offers dynamic UDF expansion:
